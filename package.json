@@ -36,6 +36,9 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-  }
+    ]	
+  },
+//before 'npm run build' comment-out this line below:
+//"homepage": "http://webdesign.alab.pw/reactreduxcounter"
+
 }
